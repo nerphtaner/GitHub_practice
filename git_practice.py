@@ -1,0 +1,3 @@
+#GIT PRACTICE
+
+print "GIT 01"
