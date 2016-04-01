@@ -1,7 +1,5 @@
 #GIT PRACTICE
 
-print "second"
-
 print "experiment"
 
 print "eeexxxppp"
