@@ -12,3 +12,4 @@ for i in range(10):
 
 print "don't conflict"
 print "remote"
+print "clone"
