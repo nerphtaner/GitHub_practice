@@ -3,4 +3,4 @@
 print "GIT 01"
 
 for i in range(10):
-	print i*10
+	print i*11
